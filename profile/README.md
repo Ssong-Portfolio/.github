@@ -1,6 +1,6 @@
 ### 송은석의 포트폴리오
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=송은석의 포트폴리오!" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200" />
 
 
 
