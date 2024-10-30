@@ -12,23 +12,23 @@
 >> 담당역할 : DB생성 관리 좋아요/싫어요 , 즐겨찾기 기능 구현
 >>> Languages : Java, JavaScript, HTML, CSS, Mysql <br>
 >>> Skill : Spring Boot, Spring Data JPA, Mysql, Kakao Map Api <br>
-[프로젝트 상세보기](https://github.com/jjun0318/WCProject)
+[프로젝트 상세보기](https://github.com/Ssong-Portfolio/PublicWC)
 
-2. InTravel
-> 여행계획&기록 을 주제로 한 프로젝트
+2. Funding
+> 안드로이드 기반 펀딩 앱
 >> 프로젝트 기간 : 2024.09.03 ~ 2024.09.13 <br>
->> 담당역할 : 여행관리,지출관리 부분 서버 DB 구현
+>> 담당역할 : 
 >>> Languages : Java, Kotlin, Mysql <br>
 >>> Skill : Spring Boot, Spring Data JPA, Mysql, Google Map Api <br>
-[프로젝트 상세보기](https://github.com/jjun0318/AppProject)
+[프로젝트 상세보기](https://github.com/Ssong-Portfolio/Funding)
 
-3. MeasurePro
-> 건설 현장 구조물의 안정성을 확인하는 웹,앱 프로젝트
+3. YESIM
+> 
 >> 프로젝트 기간 : 2024.10.02 ~ 2024.10.24 <br>
->> 담당역할 : 웹 UI, 이미지 업로드(서버) 기능구현
+>> 담당역할 : 
 >>> Languages : Java, JavaScript ,CSS, Kotlin, Mysql <br>
 >>> Skill : Spring Boot, Spring Data JPA, Mysql, React.js, Node.js, Naver Map Api <br>
-[프로젝트 상세보기](https://github.com/jjun0318/MeasurePro)
+[프로젝트 상세보기](https://github.com/Ssong-Portfolio/YESIM)
 
 
 
