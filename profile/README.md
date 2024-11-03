@@ -9,7 +9,7 @@
 1. PublicWC
 > 공공화장실 위치 공유를 주제로 한 프로젝트
 >> 프로젝트 기간 : 2024.07.19 ~ 2024.07.31 <br>
->> 담당역할 : DB생성 관리 좋아요/싫어요 , 즐겨찾기 기능 구현
+>> 담당역할 : 카카오 API 통해 지도 구현(DB 데이터 표시, 핀에서 주소 가져오기 등), 주소 검색 자동 완성 기능, Ajax를 이용해 서버와 RestAPI 방식의 비동기 통신 구축
 >>> Languages : Java, JavaScript, HTML, CSS, Mysql <br>
 >>> Skill : Spring Boot, Spring Data JPA, Mysql, Kakao Map Api <br>
 [프로젝트 상세보기](https://github.com/Ssong-Portfolio/PublicWC)
