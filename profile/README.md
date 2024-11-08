@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=은석's%20포트폴리오!&fontAlign=30&fontAlignY=40&color=gradient&fontSize=40&section=header" />
+![헤더 이미지](https://capsule-render.vercel.app/api?type=waving&height=200&text=은석's%20포트폴리오!&fontAlign=30&fontAlignY=40&color=0:5D9CEC,100:4FC1E9&fontSize=40&section=header)
 
-# 사용언어
+# 사용 언어 및 툴
 <!-- 백엔드 -->
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -39,44 +39,56 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoft-windows&logoColor=white"/>
 </p>
 
+
+---
+
 # 프로젝트
-> 교육기관 : 부산인재개발원 부산IT교육센터
->> 과정명 : [K 디지털] 실무 프로젝트기반 풀스택(스프링, 리액트, 앱) 개발자 양성</br>
->> 교육 기간 : 2024.04 ~ 2024.10</br>
+> **교육기관** : 부산인재개발원 부산IT교육센터  
+> **과정명** : [K 디지털] 실무 프로젝트 기반 풀스택(스프링, 리액트, 앱) 개발자 양성  
+> **교육 기간** : 2024.04 ~ 2024.10  
 
-1. PublicWC
-> 공공화장실 위치 공유를 주제로 한 프로젝트(우화)
->> 프로젝트 기간 : 2024.07.19 ~ 2024.07.31 <br>
->> 주요내용 : 공공 포털 데이터 활용 및 사용자들 간의 화장실 정보 공유 웹 사이트
->> 담당역할 : 카카오 API 통해 지도 구현(DB 데이터 표시, 핀에서 주소 가져오기 등), 주소 검색 자동 완성 기능, Ajax를 이용해 서버와 RestAPI 방식의 비동기 통신 구축
->>> Languages : Java, JavaScript, HTML, CSS, Mysql, AWS <br>
->>> Skill : Spring Boot, JPA, Ajax, Kakao Map Api, Kakao RESTful Api <br>
-[프로젝트 상세보기](https://github.com/Ssong-Portfolio/PublicWC)
+---
 
-2. Funding
-> 안드로이드 기반 펀딩 앱(Fun)
->> 프로젝트 기간 : 2024.09.03 ~ 2024.09.13 <br>
->> 주요내용 : 아이디어 상품을 펀딩 방식으로 게시하고 후원 할 수 있는 어플리케이션
->> 담당역할 : Kotlin을 이용한 Android UI 및 메인 페이지 개발, Picasso 라이브러리를 이용해 이미지 통신 구현, retofit을 통해 서버와 데이터 비동기 통신 구축, Firebase와의 통신을 통해 상담사 기능 개발
->>> Languages : Android studio, Kotlin, JavaScript ,CSS, Java, MySQL, React, Firebase, AWS <br>
->>> Skill : Spring Boot, JPA, Firebase, Picasso <br>
-[프로젝트 상세보기](https://github.com/Ssong-Portfolio/Funding)
+### 📌 PublicWC - 공공화장실 위치 공유 프로젝트
+- **프로젝트 기간**: 2024.07.19 ~ 2024.07.31
+- **주요 내용**: 공공 포털 데이터 활용 및 사용자 화장실 정보 공유 웹 사이트
+- **담당 역할**:
+  - 카카오 API로 지도 구현
+  - 주소 검색 자동 완성 기능
+  - 비동기 통신 구축
+- **사용 기술**: Java, JavaScript, HTML, CSS, MySQL, Spring Boot, JPA, Kakao Map API
+- **성과 및 느낀 점**: 지도 API 연동을 통한 사용자 경험 개선
 
-3. YESIM
-> 
->> 프로젝트 기간 : 2024.10.02 ~ 2024.10.24 <br>
->> 주요내용 : QR코드 기능을 활용하여 코틀린 기반의 모바일 앱에서 등록, 사용, 조회 등이 가능하고, 리엑트 기반의 웹 페이지에서 전체적인 관리가 가능한 웹 사이트
->> 담당역할 : Kotlin을 이용한 Android UI 및 메인 페이지 개발, zxing 라이브러리를 이용한 QR 코드 생성 및 조회
->>> Languages : Java, JavaScript ,CSS, Kotlin, Mysql Android studio, React <br>
->>> Skill : Spring Boot, JPA, Mysql, Zxing, Piccaso, Spring Security <br>
-[프로젝트 상세보기](https://github.com/Ssong-Portfolio/YESIM)
+[🔗 프로젝트 상세보기](https://github.com/Ssong-Portfolio/PublicWC)
 
+---
 
+### 📌 Funding - 안드로이드 기반 펀딩 앱 프로젝트
+- **프로젝트 기간**: 2024.09.03 ~ 2024.09.13
+- **주요 내용**: 아이디어 상품을 펀딩 방식으로 후원할 수 있는 어플리케이션
+- **담당 역할**:
+  - Kotlin으로 Android UI 개발
+  - Picasso로 이미지 통신 구현
+  - Retrofit, Firebase로 비동기 통신
+- **사용 기술**: Android Studio, Kotlin, JavaScript, CSS, Java, MySQL, React, Firebase, AWS
+- **성과 및 느낀 점**: 펀딩 기능으로 사용자와의 소통을 강화한 UI/UX 설계 경험
 
-<!-- ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![js](https://img.shields.io/badge/html-yello?style=for-the-badge&logo=JavaScript&logoColor=white) -->
+[🔗 프로젝트 상세보기](https://github.com/Ssong-Portfolio/Funding)
 
+---
 
+### 📌 YESIM - QR 코드 활용 비품 관리 시스템
+- **프로젝트 기간**: 2024.10.02 ~ 2024.10.24
+- **주요 내용**: QR코드를 활용한 등록, 사용, 조회 기능과 웹 관리 기능 제공
+- **담당 역할**:
+  - Kotlin으로 Android UI 개발
+  - ZXing 라이브러리로 QR 코드 생성 및 조회
+  - React로 웹 관리 기능 구현
+- **사용 기술**: Java, JavaScript, CSS, Kotlin, MySQL, Android Studio, React, Spring Boot, JPA, ZXing
+- **성과 및 느낀 점**: 최신 기술을 활용해 자산 관리 시스템을 편리하게 구축할 수 있었습니다.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+[🔗 프로젝트 상세보기](https://github.com/Ssong-Portfolio/YESIM)
 
+---
+
+![푸터 이미지](https://capsule-render.vercel.app/api?type=waving&color=0:5D9CEC,100:4FC1E9&height=150&section=footer)
