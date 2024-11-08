@@ -1,4 +1,5 @@
-![헤더 이미지](https://capsule-render.vercel.app/api?type=waving&height=200&text=은석's%20포트폴리오!&fontAlign=30&fontAlignY=40&color=0:5D9CEC,100:4FC1E9&fontSize=40&section=header)
+<!-- 헤더 -->
+![헤더 이미지](https://capsule-render.vercel.app/api?type=waving&height=200&text=🌱성장과%20도전을%20이어가는%20개발자🌱&fontAlignY=40&color=0:5D9CEC,100:FBC7D4&fontSize=38&desc=매일%20성장하며%20더%20높은%20목표를%20향해!&descAlign=50&descAlignY=75&animation=fadeIn)
 
 # 사용 언어 및 툴
 <!-- 백엔드 -->
@@ -91,4 +92,6 @@
 
 ---
 
-![푸터 이미지](https://capsule-render.vercel.app/api?type=waving&color=0:5D9CEC,100:4FC1E9&height=150&section=footer)
+<!-- 푸터 -->
+![푸터 이미지](https://capsule-render.vercel.app/api?type=waving&color=0:5D9CEC,100:FBC7D4&height=150&section=footer)
+
